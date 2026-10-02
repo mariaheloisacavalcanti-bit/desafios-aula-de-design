@@ -5,15 +5,14 @@
 * **Disciplina:** Desing Profissional
 
 ## Tabela de Exercícios e Comprovações ##
- | Nº | Nome do Desafio / Lição | Explicação | Status na Plataforma | img|
+ | Nº | Nome do Desafio / Lição | Explicação | Status na Plataforma | |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | [Ex: Beecrowd 1001 ou Módulo 1 Coddy] | [Ex: Uso de printf/scanf
-ou Finalização do módulo de Variáveis] | Aprovado | [Ver
-Imagem](./prints/print_01.png) |
-| 02 | [Nome do Exercício 02] | [Explicação curta da lógica ou comando]
-| Aprovado | [Ver Imagem](./prints/print_02.png) |
-| 03 | [Nome do Exercício 03] | [Explicação curta da lógica ou comando]
-| Aprovado | [Ver Imagem](./prints/Captura de tela 2026-10-01 213332.png) |
-| 04 | [Nome do Exercício 04] | [Explicação curta da lógica ou comando]
-| Aprovado | [Ver Imagem](prints/Captura%20de%20tela%202026-10-01%20211651.png) |
+
+| 01 | Construa um bot de saudação | É um exercício para aprender JavaScript criando um bot de saudação simples, usando variáveis e mensagens para o bot se apresentar, falar sobre sua localização e interagir com o usuário.
+| Aprovado | [Ver Imagem](/prints/print-3.png) |
+
+
+| 02 | Fundamentos de JavaScript com Chatbots | Eu aprendi os fundamentos do JavaScript criando bots simples. Aprendi a usar variáveis, strings, console.log(), concatenação, template literals e métodos para trabalhar com textos, como .length e .indexOf(). Também aprendi a acessar caracteres e criar mensagens usando variáveis.
+| Aprovado | [Ver Imagem](/prints/print-1.png) |
+|  
 > 
